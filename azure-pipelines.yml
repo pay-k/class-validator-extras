@@ -44,5 +44,5 @@ steps:
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'nestjs-zeebe'
+    ArtifactName: 'class-validator-extras'
     publishLocation: 'Container'
