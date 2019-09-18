@@ -1,6 +1,6 @@
 {
   "name": "@payk/class-validator-extras",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "Class-Validator extra validation decorators",
   "main": "dist/index.js",
   "repository": {
@@ -15,7 +15,9 @@
     "publish-package": "npm run-script build && npm publish"
   },
   "keywords": [
-    "class-validator", "validation", "decorators"
+    "class-validator",
+    "validation",
+    "decorators"
   ],
   "author": "Dan Shapir",
   "license": "ISC",
