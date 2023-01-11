@@ -26,13 +26,13 @@
   },
   "devDependencies": {
 
-    "class-validator": "^0.10.0",
+    "class-validator": "^0.14.0",
     "rimraf": "^3.0.0",
     "source-map-support": "^0.5.13",
     "ts-node": "^8.3.0"
   },
   "peerDependencies": {
 
-    "class-validator": "^0.10.0"
+    "class-validator": "^0.14.0"
   }
 }
